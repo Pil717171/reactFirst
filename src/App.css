@@ -8,7 +8,7 @@
 
 .app-wrapper-content {
     grid-area: c;
-    background: blue;
+    background: rgb(123, 123, 196);
 }
 
 
